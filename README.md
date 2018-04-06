@@ -1,6 +1,8 @@
 # versions
 POC for versions
 
+# 1.1.0
+* Added a minor version 1.1.0
 
 # 1.0.2
 * Added another patch 1.0.2
